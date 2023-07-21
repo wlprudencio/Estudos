@@ -1,3 +1,3 @@
 # Estudos
 Reposistorio pra estudar
-Modifiquei agora
+Aqui eu deixarei todas as minhas partes de codigos, de estudos e pratica também;
